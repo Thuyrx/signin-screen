@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 export function Signin() {
     return (
         <>
-            <h1>SignIn</h1>
+        <Button>Sign In</Button>
         </>
     )
 }
